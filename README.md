@@ -1,7 +1,7 @@
 # Today I learned
 
 ### Aibril_Antibiotics_Advisor
-2018년 08월 진행중인 고려대학교의료원 & SK주식회사 C&C '에이브릴 항생제 어드바이저(Aibril Antibiotics Advisor)' 개발 프로젝트의 개인적인 업무일지와 공부자료를 보관합니다. (내용과 코드를 커밋하지 않습니다.) - private repository로 관리하는 방법을 고민중
+2018년 08월 진행중인 고려대학교의료원 & SK주식회사 C&C '에이브릴 항생제 어드바이저(Aibril Antibiotics Advisor)' 개발 프로젝트의 개인적인 업무일지와 공부자료를 보관합니다. (내용과 코드를 커밋하지 않습니다.) - private repository로 관리하는 방법을 고민중입니다.
 
 ### Crawling
 크롤링 관련 코드를 정리합니다.
